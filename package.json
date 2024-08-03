@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/rerum-voluptatibus-quis-odit",
-  "version": "6.5.83",
+  "version": "6.5.84",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -312,5 +312,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/rerum-voluptatibus-quis-odit/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
